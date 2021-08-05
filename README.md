@@ -1,16 +1,24 @@
-### Hi there 👋
+ <div>
+  <a href="https://github.com/gabe-santana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabe-santana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-santana&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!--
-**gabe-santana/gabe-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/gabe-santana/reachup">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabe-santana&repo=reachup" />
+  </a>
+  <a href="https://github.com/gabe-santana/gabe-asm-compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabe-santana&repo=gabe-asm-compiler" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <img width=25% src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="GIF">
+</p>
+
+ ![Snake animation](https://github.com/gabe-santana/gabe-santana/blob/output/github-contribution-grid-snake.svg)
