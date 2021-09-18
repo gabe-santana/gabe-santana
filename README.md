@@ -12,7 +12,7 @@
 
 ##
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/gabe-santana/reachup">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabe-santana&repo=reachup" />
   </a>
