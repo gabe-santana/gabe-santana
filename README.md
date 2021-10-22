@@ -22,9 +22,4 @@
 </p>
 
 
-
-<p align="center">
-  <img width=25% src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" alt="GIF">
-</p>
-
  ![Snake animation](https://github.com/gabe-santana/gabe-santana/blob/output/github-contribution-grid-snake.svg)
