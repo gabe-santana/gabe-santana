@@ -1,5 +1,5 @@
 ##
-Web stuffs, IoT stuffs, from scratch stuffs and bit twiddling stuffs, random stuffs, well I can't decide
+Web stuffs, IoT stuffs, from scratch stuffs, bit twiddling stuffs and very random stuffs, well I can't decide
 
 
   <a href="https://github.com/gabe-santana">
