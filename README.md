@@ -1,5 +1,5 @@
 ##
-Web stuffs, IoT stuffs, from scratch stuffs, bit twiddling stuffs and very random stuffs, and game stuffs
+Web stuffs, IoT stuffs, from scratch stuffs, bit twiddling stuffs, game stuffs, and very random stuffs
 
 
   <a href="https://github.com/gabe-santana">
