@@ -1,9 +1,11 @@
 ##
-Web stuffs, IoT stuffs, from scratch stuffs, bit twiddling stuffs, game stuffs, and very random stuffs
 
-
-  <a href="https://github.com/gabe-santana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-santana&layout=compact&langs_count=7&theme=dark"/>
+ <p align="center">
+   Web stuffs, IoT stuffs,<br/> from scratch stuffs,<br/> bit twiddling stuffs,<br/> game stuffs,<br/> and very random stuffs<br/><br/>
+    <a href="https://github.com/gabe-santana">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-santana&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </p>
 </div>
 
 
