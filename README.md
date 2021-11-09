@@ -1,5 +1,7 @@
 ##
-Web stuffs, IoT stuffs, from scratch stuffs and bit twiddling stuffs, random stuffs, well I can't decide what I like
+Web stuffs, IoT stuffs, from scratch stuffs and bit twiddling stuffs, random stuffs, well I can't decide
+
+
   <a href="https://github.com/gabe-santana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabe-santana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-santana&layout=compact&langs_count=7&theme=dark"/>
