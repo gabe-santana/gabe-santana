@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on Dapr<br>👯 I’m looking to collaborate on Dapr projects<br>🌱 I’m currently learning Kubernetes</br> 🔬 I'm researching Deep Learning Architectures: CNNs, RNNs, and Transformers <br>
+🔭 I’m currently working on AI Agents<br>👯 I’m looking to collaborate on AI Agents projects<br>🌱 I’m currently learning MCP </br> 🔬 I'm researching Deep Learning Architectures: CNNs, RNNs, and Transformers <br>
 
 
 # 💻 Tech Stack:
