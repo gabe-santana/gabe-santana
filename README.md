@@ -148,11 +148,13 @@ For professional background and credential details, visit my [LinkedIn profile](
 
 ## On GitHub
 
+<!--
 <p align="center">
   <a href="https://github.com/gabe-santana">
     <img src="https://raw.githubusercontent.com/gabe-santana/gabe-santana/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving through Gabriel Santana's GitHub contribution grid">
   </a>
 </p>
+-->
 
 Explore my public work, recent activity, and repositories directly on GitHub.
 
