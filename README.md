@@ -1,96 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072C6,100:00C6FF&height=220&section=header&text=Gabriel%20Santana&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20Solutions%20Architect%20%E2%80%A2%20Microsoft%20Certified&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163D36,50:0078D4,100:00C6FF&height=150&section=header&animation=fadeIn" width="100%" alt="Blue and emerald wave header">
 
-<a href="https://www.linkedin.com/in/gsantana-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.architecting.guru"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:gsantana.sza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=gabe-santana&style=for-the-badge&color=0072C6&label=PROFILE+VIEWS" />
+# Gabriel Santana
+
+## [gsantana.dev](https://gsantana.dev)
+
+### Software engineering. Systems architecture. Applied AI.
+
+<a href="https://github.com/gabe-santana">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1400&color=38BDF8&center=true&vCenter=true&width=680&height=65&lines=%3E+Architecting+cloud-native+systems_;%3E+Engineering+AI+agents+%2B+MCP_;%3E+Solving+complex+problems_;%3E+From+domain+to+production_">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1400&color=0078D4&center=true&vCenter=true&width=680&height=65&lines=%3E+Architecting+cloud-native+systems_;%3E+Engineering+AI+agents+%2B+MCP_;%3E+Solving+complex+problems_;%3E+From+domain+to+production_" width="680" height="65" alt="Animated terminal: architecting cloud-native systems; engineering AI agents and MCP; solving complex problems; from domain to production.">
+  </picture>
+</a>
+
+**AI Solutions Architect**<br>
+Building intelligent, resilient systems that turn complex problems into practical solutions.
+
+<a href="https://gsantana.dev"><img src="https://img.shields.io/badge/GSANTANA.DEV-Visit%20my%20website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit gsantana.dev, Gabriel Santana's personal website"></a>
+<a href="https://www.linkedin.com/in/gsantana-s"><img src="https://img.shields.io/badge/LINKEDIN-Let%27s%20connect-0A66C2?style=for-the-badge" alt="Connect with Gabriel on LinkedIn"></a>
+<a href="mailto:gsantana.sza@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Start%20a%20conversation-555555?style=for-the-badge" alt="Email Gabriel Santana"></a>
+
+<br>
+
+[Profile](#profile) &nbsp; / &nbsp; [Focus](#current-focus) &nbsp; / &nbsp; [Approach](#engineering-principles) &nbsp; / &nbsp; [Toolkit](#technical-toolkit) &nbsp; / &nbsp; [Credentials](#certifications) &nbsp; / &nbsp; [GitHub](#on-github)
+
+<br>
+
+<a href="https://gsantana.dev">
+  <img src="https://cdn.gsantana.dev/shared/landing-page.png" width="100%" alt="Screenshot of Gabriel Santana's personal website at gsantana.dev. Visit the website.">
+</a>
 
 </div>
 
-<br/>
+---
 
-## About Me
+## Profile
 
-Microsoft Certified Professional with **9+ years** of experience delivering complex, mission-critical systems for the financial market — market data, market risk, credit/transfer pricing, and capitalization. Specialist in **.NET, Python and Node.js**, with 3+ years in DevOps and a strong track record on **Azure**. Experienced leading international teams and driving scalable, resilient architectures from inception to production.
+I work at the intersection of **software engineering, cloud architecture, and applied AI**. Over **9+ years**, I have built complex, mission-critical systems, with a background spanning market data, market risk, credit and transfer pricing, and capitalization. That experience shapes how I approach correctness, resilience, and production delivery, whatever the domain.
 
-```text
-const gabriel = {
-    role:        "AI Solutions Architect @ BDS DataSolution",
-    focus:       ["Agentic AI", "MCP", "AI Harness Engineering", "Cloud-Native Architecture"],
-    learning:    "Deep Learning Architectures — CNNs, RNNs & Transformers",
-    languages:   { portuguese: "native", english: "B2 - Intermediate" },
-    funFact:     "Turns messy financial data into intelligent, scalable systems"
-};
-```
+My background combines hands-on development in **.NET, Python, and Node.js**, **5+ years leading cloud architecture practice**, and **3+ years in DevOps**. I have led international teams and worked across the path from architecture decisions to production delivery, with a strong focus on **Azure**.
 
-- 🔭 Currently developing **orchestrator AI agents** and **Agentic AI / MCP** solutions for the financial market
-- 🏗️ 5+ years leading cloud architecture practice — TOGAF, DDD & the Azure Well-Architected Framework
-- 👯 Open to collaborating on **AI agent** and **applied LLM** projects
-- 🌱 Learning **MCP** in depth and researching **Deep Learning** architectures
-- 💬 Ask me about Azure architecture, LLM/RAG pipelines, or scaling financial-market data platforms
+Today, I bring that foundation to **agentic AI, Model Context Protocol (MCP), and AI harness engineering**, focused on connecting model capabilities with practical business needs.
 
-<br/>
+> The standard I aim for: systems that are understandable, operable, and worthy of the trust placed in them.
 
-## 🛠️ Tech Stack
+| Perspective | Experience |
+| :--- | :--- |
+| **Domain background** | Financial-market systems: market data, market risk, credit and transfer pricing, capitalization |
+| **Architecture** | Cloud-native design, distributed systems, domain-driven design, TOGAF, Azure Well-Architected Framework |
+| **Delivery** | Hands-on engineering, DevOps, international team leadership, inception-to-production delivery |
+| **Current role** | AI Solutions Architect |
+| **Languages** | Portuguese: native · English: B2 (upper-intermediate) |
 
-**Languages & Frameworks**
+## Current Focus
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 01 / Agentic systems
 
-**Cloud & DevOps**
+Developing **orchestrator AI agents** and exploring how specialized agents, tools, and workflows can solve complex business problems.
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 02 / Tool integration and execution
 
-**Data & Streaming**
+Working with **MCP** and **AI harness engineering**, with an emphasis on the boundaries between models, tools, execution context, and the systems around them.
 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 03 / Applied intelligence
 
-<br/>
+Interested in **LLM and retrieval-augmented generation (RAG) pipelines** that connect useful model capabilities with real domain context.
 
-## 📜 Certifications
+### 04 / Deeper foundations
 
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/"><img src="https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+Studying **deep learning architectures**, including CNNs, RNNs, and Transformers, while continuing to deepen my understanding of MCP.
 
-<br clear="left"/>
+## Engineering Principles
 
-<br/>
+The questions I want an architecture to answer before it reaches production:
 
-## 📊 GitHub Stats
+| Principle | The practical question |
+| :--- | :--- |
+| **Start with the domain** | What business rule must remain true, even when the system fails? |
+| **Make trade-offs explicit** | What are we optimizing for, and what cost are we accepting? |
+| **Design for failure** | What happens when a dependency is slow, unavailable, or returns the wrong result? |
+| **Treat operations as design** | Can the team observe, diagnose, recover, and deploy with confidence? |
+| **Keep boundaries clear** | Who owns the data, the contract, and the decision? |
+| **Earn complexity** | Does this abstraction solve a present problem, or only an imagined one? |
+| **Evaluate AI beyond the demo** | How will we measure usefulness, constrain tool access, and recognize failure? |
+
+## Technical Toolkit
+
+Tools are the implementation choices. Domain understanding and engineering judgment determine how they fit together.
+
+### Languages and Runtimes
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+### Cloud and Delivery
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="Amazon Web Services">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+### Data and Streaming
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-116149?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+<details>
+<summary><strong>Architecture and AI interests</strong></summary>
+
+<br>
+
+**Architecture:** domain-driven design, cloud-native systems, resilient distributed architectures, TOGAF, and the Azure Well-Architected Framework.
+
+**Applied AI:** agent orchestration, Model Context Protocol, AI harness engineering, LLM integration, and retrieval-augmented generation.
+
+**Ongoing study:** convolutional neural networks, recurrent neural networks, and Transformer architectures.
+
+</details>
+
+## Certifications
+
+Microsoft credentials listed in my professional background:
+
+| Certification | Exam |
+| :--- | :--- |
+| **Azure Solutions Architect Expert** | AZ-305 |
+| **Azure Developer Associate** | AZ-204 |
+| **Azure Administrator Associate** | AZ-104 |
+
+For professional background and credential details, visit my [LinkedIn profile](https://www.linkedin.com/in/gsantana-s).
+
+## On GitHub
+
+<p align="center">
+  <a href="https://github.com/gabe-santana">
+    <img src="https://raw.githubusercontent.com/gabe-santana/gabe-santana/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving through Gabriel Santana's GitHub contribution grid">
+  </a>
+</p>
+
+Explore my public work, recent activity, and repositories directly on GitHub.
+
+**[Browse repositories →](https://github.com/gabe-santana?tab=repositories)** &nbsp; · &nbsp; **[View public activity →](https://github.com/gabe-santana)** &nbsp; · &nbsp; **[Explore starred projects →](https://github.com/gabe-santana?tab=stars)**
+
+<details>
+<summary><strong>GitHub activity at a glance</strong></summary>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/gabe-santana?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabe-santana&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&hide_rank=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabe-santana&show_icons=true&hide_border=true&bg_color=00000000&title_color=163D36&icon_color=247A57&text_color=24292F&hide_rank=true" alt="Gabriel Santana's public GitHub statistics; follow the link to browse repositories" width="480">
+    </picture>
+  </a>
+</p>
+
+<sub>This optional card is provided by a third-party service and may be temporarily unavailable. Public activity is only one part of an engineer's work.</sub>
+
+</details>
+
+---
+
+## Let's Build Something That Matters
+
+I'm open to collaborating on **AI agents and applied LLM projects** across industries, especially where domain understanding, cloud architecture, and reliable engineering meet.
+
+For conversations about **Azure architecture**, **LLM/RAG pipelines**, or **scalable data platforms**, reach out through [LinkedIn](https://www.linkedin.com/in/gsantana-s) or [email](mailto:gsantana.sza@gmail.com).
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabe-santana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabe-santana&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+**Understand the domain. Make the trade-offs explicit. Build for production.**
+
+<sub>Gabriel Santana &nbsp; · &nbsp; <a href="https://gsantana.dev">gsantana.dev</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:163D36&height=100&section=footer" width="100%" alt="Blue and emerald wave footer">
+
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabe-santana&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabe-santana&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabe-santana/gabe-santana/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072C6&height=100&section=footer" width="100%"/>
