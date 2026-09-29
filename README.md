@@ -13,7 +13,7 @@
 
 ## About Me
 
-Microsoft Certified Professional with **8+ years** of experience delivering complex, mission-critical systems for the financial market — market data, market risk, credit/transfer pricing, and capitalization. Specialist in **.NET, Python and Node.js**, with 3+ years in DevOps and a strong track record on **Azure**. Experienced leading international teams and driving scalable, resilient architectures from inception to production.
+Microsoft Certified Professional with **9+ years** of experience delivering complex, mission-critical systems for the financial market — market data, market risk, credit/transfer pricing, and capitalization. Specialist in **.NET, Python and Node.js**, with 3+ years in DevOps and a strong track record on **Azure**. Experienced leading international teams and driving scalable, resilient architectures from inception to production.
 
 ```text
 const gabriel = {
@@ -67,29 +67,6 @@ const gabriel = {
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/"><img src="https://img.shields.io/badge/AZ--204-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect-expert/"><img src="https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-
-<br/>
-
-## 🏆 Key Achievements
-
-| Impact | Detail |
-|---|---|
-| ⚡ **99.83%** latency reduction | Fund Quotation APIs — enabled acquisition of 4 key B2B enterprise clients |
-| ✅ **100%** Well-Architected compliance | Mission-Critical & SaaS workloads on Azure |
-| 💰 **~11%** cloud cost reduction | Custom logging/monitoring & sampling strategy |
-| 💰 **12.33%** infra cost reduction | Migration to Azure Container Apps |
-| 📈 **NPS 75–100** | Sustained across all products under ownership |
-| 🧪 **100%** test automation coverage | Across all API features, with automated CI/CD quality gates |
-
-<br/>
-
-## 🚀 Featured Project
-
-<a href="https://github.com/gabe-santana/ReachUp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gabe-santana&repo=ReachUp&theme=tokyonight&hide_border=true" />
-</a>
-
-**ReachUp** — an indoor navigation app for the visually impaired, built as a volunteer project to make everyday spaces more accessible.
 
 <br clear="left"/>
 
